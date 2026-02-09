@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musama11262003-dotcom.github.io/Portfolio-website/sitemap.xml
